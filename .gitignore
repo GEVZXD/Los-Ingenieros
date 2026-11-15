@@ -1,0 +1,20 @@
+# Archivos de credenciales y llaves
+*.pem
+*.ppk
+.env
+config.json
+credentials
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDEs y editores
+.vscode/
+.idea/
